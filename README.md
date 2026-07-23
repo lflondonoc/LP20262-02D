@@ -36,9 +36,9 @@ Las evaluaciones parciales del curso se realizarán en las siguientes fechas:
 
 | **Actividad evaluativa** | **Semana** | **Fecha** | **Supletorio** | **Porcentaje** |
 |:------------------------:|:----------:|:---------:|:--------------:|:--------------:|
-| **Parcial 1** | 6 | 8 de septiembre de 2026 | 15 de septiembre de 2026 | 25 % |
-| **Parcial 2** | 11 | 13 de octubre de 2026 | 20 de octubre de 2026 | 25 % |
-| **Parcial 3** | 15 | 10 de noviembre de 2026 | 17 de noviembre de 2026 | 25 % |
+| **Parcial 1** | 6 | 8 de septiembre de 2026 | 10 de septiembre de 2026 | 25 % |
+| **Parcial 2** | 12 | 20 de octubre de 2026 | 22 de octubre de 2026 | 25 % |
+| **Parcial 3** | 16 | 17 de noviembre de 2026 | 19 de noviembre de 2026 | 25 % |
 | **Seguimiento** | Durante el semestre | Permanente y sin previo aviso | — | 25 % |
 | **Total del curso** | — | — | — | **100 %** |
 
